@@ -1,2 +1,10 @@
-package hu.progmatic.springtest.model;public enum Category {
+package hu.progmatic.springtest.model;
+
+public enum Category {
+    HOUSING,
+    FOOD,
+    CLOTHING,
+    TRAVEL,
+    LEISURE,
+    OTHER
 }

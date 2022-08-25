@@ -1,2 +1,5 @@
-package hu.progmatic.springtest.service;public class ExpenditureSummarizer {
+package hu.progmatic.springtest.service;
+
+public class ExpenditureSummarizer {
+
 }
